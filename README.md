@@ -1,4 +1,4 @@
-## Hi there, i'm Toby.
+## Hi there! I'm Toby.
 
 I am a first year student at Brighton Hove and Sussex Sixth Form college currently studying Computer Science, Maths, Physics and researching for my Extended Project Qualification.
 

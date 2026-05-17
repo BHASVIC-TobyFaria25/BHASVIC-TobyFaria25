@@ -5,6 +5,6 @@ I am a first year student at Brighton Hove and Sussex Sixth Form college current
 Currently I am interested in pursuing a career in aerospace software engineering and am therefore planning upon reading Computer Science at university.
 
 Showcase:
-<ul>
-  <li>[Super Smash bros clone](https://github.com/BHASVIC-TobyFaria25/Smash-Bros-Clone) made in ![Java logo](/img/java.svg) Java</li>
-</ul>
+
+[Super Smash bros clone](https://github.com/BHASVIC-TobyFaria25/Smash-Bros-Clone) made in <picture> <img src="/img/java.svg" width="128" height="128"></img>
+</picture> Java

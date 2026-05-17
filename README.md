@@ -6,8 +6,8 @@ Currently I am interested in pursuing a career in aerospace software engineering
 
 Showcase:
 
-- [Super Smash bros clone](https://github.com/BHASVIC-TobyFaria25/Smash-Bros-Clone), made in <picture> <img src="/img/java.svg" width="32" height="32"></img>
+- [Super Smash bros clone](https://github.com/BHASVIC-TobyFaria25/Smash-Bros-Clone), written in <picture> <img src="/img/java.svg" width="32" height="32"></img>
 </picture> Java
 
-- [Hotel Kashyyyk](https://github.com/BHASVIC-TobyFaria25/Hotel-Kashyyyk), made in <picture> <img src="/img/c.svg" width="32" height="32"></img>
+- [Hotel Kashyyyk](https://github.com/BHASVIC-TobyFaria25/Hotel-Kashyyyk), written in <picture> <img src="/img/c.svg" width="32" height="32"></img>
 </picture> C

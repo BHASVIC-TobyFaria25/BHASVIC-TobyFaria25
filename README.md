@@ -11,3 +11,8 @@ Showcase:
 
 - [Hotel Kashyyyk](https://github.com/BHASVIC-TobyFaria25/Hotel-Kashyyyk), written in <picture> <img src="/img/c.svg" width="32" height="32"></img>
 </picture> C
+
+My skills:
+- Teamwork
+- Problem solving
+- Adaptability
